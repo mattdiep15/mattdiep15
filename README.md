@@ -6,4 +6,4 @@
 - 📫 How to reach me: [matt's gmail](mailto:matthewdiep15@gmail.com)
 - 😄 Pronouns: he/him
 
-Check out my website here: [matt's website](https://mattdiep15.github.io/mattdiep.github.io/)
+Check out my website here: [matt's website](https://mattdiep15.github.io)
