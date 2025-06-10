@@ -1,4 +1,4 @@
-## Hi there, I'm Matt👋
+# Hi there, I'm Matt👋
 
 - 🔭 I’m currently working on machine learning projects
 - 🌱 I’m currently learning data science/ML concepts
@@ -6,4 +6,4 @@
 - 📫 How to reach me: [matt's gmail](mailto:matthewdiep15@gmail.com)
 - 😄 Pronouns: he/him
 
-Check out my website here: [matt's website](https://mattdiep15.github.io)
+## Check out my website here: [Matt's website](https://mattdiep15.github.io)
